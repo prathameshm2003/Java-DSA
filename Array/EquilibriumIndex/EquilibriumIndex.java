@@ -59,5 +59,5 @@ public class EquilibriumIndex {
     }
 
 }
-//TC==O(N*N)
-//SC==O(1)
+//Time Complexity == O(N*N)
+//Space Complexity == O(1)
