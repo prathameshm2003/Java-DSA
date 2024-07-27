@@ -60,3 +60,4 @@ public class EquilibriumIndex {
 
 }
 //TC==O(N*N)
+//SC==O(1)
