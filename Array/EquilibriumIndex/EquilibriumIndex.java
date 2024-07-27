@@ -59,3 +59,4 @@ public class EquilibriumIndex {
     }
 
 }
+//TC==O(N*N)
