@@ -5,6 +5,7 @@ package SubArray;
  * int arr[]=new int[]{2,4,1,3};
  * A. print the sum of every single subarray with Time Complexity O(N) and without using extra space complexity.(Carry Forword)
  */
+//Optimized to O(N^2)
 public class SumofSubarrCarryForward {
     public static void main(String[] args) {
         int arr[] = new int[] { 2, 4, 1, 3 };
