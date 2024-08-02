@@ -2,6 +2,7 @@ package TwoDMatrices;
 
 /*
  * Given a square matrix.Print the right diagonal.
+   Output : 3 5 7
  */
 public class PrintRightDiagonal {
     public static void main(String[] args) {
