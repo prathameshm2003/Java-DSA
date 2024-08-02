@@ -4,6 +4,12 @@ package TwoDMatrices;
  * Given a matrix of size N*M
  * print all the diagonal (R->L)
  * Note:- row==> 0th row
+   Output : 6 11 16 21 26
+            5 10 15 20 25
+            4 9 14 19
+            3 8 13
+            2 7 
+            1
  */
 public class PrintAllDiagonals {
     public static void main(String[] args) {
