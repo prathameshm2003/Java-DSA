@@ -3,6 +3,7 @@ package TwoDMatrices;
 /*
  * Given a N*N Matrix.
  * Print it in spiral fashion.
+ Output : 1 2 3 4 25 24 23 22 21 16 11 6 7 8 19 18 17 12 13 
  */
 public class PrintSpiralfashion {
     public static void main(String[] args) {
