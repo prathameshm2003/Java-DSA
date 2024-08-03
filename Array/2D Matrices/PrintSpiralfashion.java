@@ -18,21 +18,25 @@ public class PrintSpiralfashion {
                 System.out.print(arr[i][j] + " ");
                 j++;
             }
+            // i=0 & j=4
 
             for (int x = 0; x < N - 1; x++) {
                  System.out.print(arr[i][j] + " ");
                  i++;
             }
+            // i=4 & j=4
 
             for (int x = 0; x < N - 1; x++) {
                 System.out.print(arr[i][j] + " ");
                 j--;
             }
+            // i=4 & j=0
 
             for (int x = 0; x < N - 1; x++) {
                 System.out.print(arr[i][j] + " ");
                 i--;
             }
+             // i=0 & j=0
 
             N = N - 2;
             i++;
