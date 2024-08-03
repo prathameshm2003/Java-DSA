@@ -20,7 +20,8 @@ public class PrintSpiralfashion {
             }
 
             for (int x = 0; x < N - 1; x++) {
-                i++;
+                 System.out.print(arr[i][j] + " ");
+                 i++;
             }
 
             for (int x = 0; x < N - 1; x++) {
