@@ -19,4 +19,5 @@ class ArrayDemo1 {
         System.out.println(count);
     }
 }
+//Output : 7
 // time complexity=O(N*N) & space complexity=O(1)
